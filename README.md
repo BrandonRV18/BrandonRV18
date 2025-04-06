@@ -27,7 +27,7 @@
   </p>
 
   <p>
-    Fuera del ámbito académico y profesional, disfruto de actividades como jugar videojuegos, ver y jugar fútbol, e ir al gimnasio, lo que me ayuda a mantener un equilibrio entre mi vida académica y personal.
+    Fuera del ámbito académico y profesional, disfruto de actividades como jugar videojuegos, ver y jugar fútbol, y ejercitarme, lo que me ayuda a mantener un equilibrio entre mi vida académica y personal.
   </p>
 
   <h2>Proyectos Destacados</h2>
