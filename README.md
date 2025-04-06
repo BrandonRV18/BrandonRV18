@@ -1,11 +1,11 @@
-<!-- Sección en Español -->
-<div id="espanol">
+
+<section id="espanol" style="border: 2px solid #000; padding: 20px; margin-bottom: 40px;">
   <h1 align="center">¡Hola, soy Brandon Rodríguez!</h1>
   <p align="center">
     Estudiante de la carrera de ingeniería en computación en el Tecnológico de Costa Rica (TEC).
   </p>
 
-  <div align="center">
+  <div align="center" style="margin-bottom: 20px;">
     <!-- Enlaces a redes sociales -->
     <a href="https://www.linkedin.com/in/brandon-rodr%C3%ADguez-5202b3270/" target="_blank">LinkedIn</a> • 
     <a href="https://www.facebook.com/profile.php?id=100047150393272" target="_blank">Facebook</a> • 
@@ -54,18 +54,15 @@
   <p>
     Si deseas ponerte en contacto conmigo, puedes enviarme un correo a <a href="mailto:tbrandonerv438@gmail.com">brandonerv438@gmail.com</a> o conectarte a través de mis redes sociales.
   </p>
-</div>
+</section>
 
-<hr style="margin: 50px 0;">
-
-<!-- Sección en Inglés -->
-<div id="english">
+<section id="english" style="border: 2px solid #000; padding: 20px;">
   <h1 align="center">Hello, I'm Brandon Rodriguez!</h1>
   <p align="center">
     Computer Engineering student at the Tecnológico de Costa Rica (TEC).
   </p>
 
-  <div align="center">
+  <div align="center" style="margin-bottom: 20px;">
     <!-- Social Media Links -->
     <a href="https://www.linkedin.com/in/brandon-rodr%C3%ADguez-5202b3270/" target="_blank">LinkedIn</a> • 
     <a href="https://www.facebook.com/profile.php?id=100047150393272" target="_blank">Facebook</a> • 
@@ -114,4 +111,4 @@
   <p>
     If you would like to get in touch, feel free to email me at <a href="mailto:tbrandonerv438@gmail.com">brandonerv438@gmail.com</a> or connect with me through my social media profiles.
   </p>
-</div>
+</section>
