@@ -156,4 +156,11 @@
   <p>
     If you would like to get in touch, feel free to email me at <a href="mailto:tbrandonerv438@gmail.com">brandonerv438@gmail.com</a> or connect with me through my social media profiles.
   </p>
+
+  ## Github stats: 
+<span>
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrandonRV18&theme=react&show_icons=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonRV18&theme=react&layout=compact" />
+</p>
 </div>
