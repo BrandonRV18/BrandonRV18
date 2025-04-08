@@ -8,7 +8,7 @@
   </p>
 
   <div align="center">
-    <a href="https://www.linkedin.com/in/brandon-rodr%C3%ADguez-5202b3270/">
+    <a href="https://www.linkedin.com/in/brandon-rodr%C3%ADguez-vega-5202b3270/">
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
     <a href="https://www.instagram.com/brandrod1811/">
