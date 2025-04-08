@@ -13,7 +13,7 @@
 
   <hr>
 
-  <h2>Sobre mí<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> </h2>
+  <h2>Sobre mí<picture></h2>
   <p>
     Soy <strong>Brandon Rodriguez Vega</strong>, tengo 22 años y estudio en el Tec desde 2021. Me considero una persona respetuosa, responsable, disciplinada y con capacidad para trabajar en equipo. Durante mis años universitarios, he participado en diversos proyectos, destacando el desarrollo de un <strong>sistema de reservas y salas de cubículos</strong> para el nuevo edificio del Tec, el cual se planea implementar en el Centro Académico de Alajuela en 2025.
   </p>
