@@ -5,10 +5,12 @@
   </p>
 
   <div align="center">
-    <!-- Enlaces a redes sociales -->
-    <a href="https://www.linkedin.com/in/brandon-rodr%C3%ADguez-5202b3270/" target="_blank">LinkedIn</a> • 
-    <a href="https://www.facebook.com/profile.php?id=100047150393272" target="_blank">Facebook</a> • 
-    <a href="https://www.instagram.com/brandrod1811/" target="_blank">Instagram</a>
+  <a href="https://www.linkedin.com/in/brandon-rodr%C3%ADguez-5202b3270/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://www.instagram.com/brandrod1811/">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+  <a href="https://www.facebook.com/profile.php?id=100047150393272">
+  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
   </div>
 
   <hr>
