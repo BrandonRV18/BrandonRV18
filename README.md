@@ -50,7 +50,7 @@
   </ul>
 
   
-<h2>Sobre mí</h2>
+<h2>Habilidades</h2>
 <h4> Lenguajes de programación </h4>
 <span> 
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
