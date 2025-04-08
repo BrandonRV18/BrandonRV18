@@ -1,5 +1,5 @@
 <div id="espanol">
-  <h1 align="center">¡Hola, soy Brandon Rodríguez!</h1></b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+  <h1 align="center">¡Hola, soy Brandon Rodríguez! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
   <p align="center">
     Estudiante de la carrera de ingeniería en computación en el Tecnológico de Costa Rica (TEC).
   </p>
